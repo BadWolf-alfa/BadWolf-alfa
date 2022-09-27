@@ -8,6 +8,11 @@ I love computers & tinkering, as well as programming!
 
 - [OneiOS-Bootloader](https://github.com/BadWolf-alfa/oneios) - A bootloader for Checkra1n compatible devices with Sileo Support
 
+
+### Hackintosh Devices:
+- [💻Lenovo B590](https://github.com/BadWolf-alfa/Lenovo-B590-Hackingtosh) - A EFI OpenCore Configuration and Unlocked BIOS files
+
+
 Soon more organized :) and open-sourced.
 
-OneOS Team lead Developer
+ONE Team lead Developer
